@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guider-test/static/css/main.1424da35.css",
+    "main.js": "/guider-test/static/js/main.37649514.js",
+    "index.html": "/guider-test/index.html",
+    "static/media/Arrow1.svg": "/guider-test/static/media/Arrow1.8ad97f0fbb003c46febb.svg",
+    "static/media/Polygon1.svg": "/guider-test/static/media/Polygon1.927d3f2524ff8ebaca95.svg",
+    "main.1424da35.css.map": "/guider-test/static/css/main.1424da35.css.map",
+    "main.37649514.js.map": "/guider-test/static/js/main.37649514.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1424da35.css",
+    "static/js/main.37649514.js"
+  ]
+}
