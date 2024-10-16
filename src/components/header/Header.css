@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 32px;
+  background-color: var(--background-plate);
+  height: 128px;
+  color: var(--text-primary);
+  font-size: 56px;
+  line-height: 67px;
+}
+
+@media only screen and (max-width: 500px) {
+  .header {
+    font-size: 32px;
+    height: 80px;
+  }
+}

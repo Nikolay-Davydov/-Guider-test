@@ -1,0 +1,21 @@
+.tag-list {
+  display: flex;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+  transform: translateY(100%);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.24);
+  border-radius: 16px;
+  background-color: var(--background-plate);
+  padding: 16px;
+  min-width: 280px;
+}
+
+@media only screen and (max-width: 600px) {
+  .tag-list {
+    transform: translate(20%, 100%);
+  }
+}

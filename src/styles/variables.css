@@ -1,0 +1,11 @@
+:root {
+  --background-page: rgba(247, 231, 220, 1);
+  --background-plate: rgba(117, 134, 148, 1);
+  --background-card: rgba(64, 93, 114, 0.3);
+  --background-card-hover: rgba(64, 93, 114, 1);
+  --background-button: rgba(255, 248, 243, 1);
+  --background-button-hover: rgba(56, 66, 74, 0.8);
+
+  --text-primary: rgba(255, 248, 243, 1);
+  --text-button: rgba(0, 0, 0, 1);
+}

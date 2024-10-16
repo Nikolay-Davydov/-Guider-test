@@ -1,0 +1,26 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border-radius: 32px;
+  background-color: var(--background-plate);
+  padding: 32px;
+}
+
+@media only screen and (max-width: 500px) {
+  .list {
+    padding: 16px 16px 32px 16px;
+  }
+}
+
+.list__total {
+  align-self: start;
+  color: var(--text-primary);
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.list__total-label {
+  font-weight: 900;
+  text-transform: uppercase;
+}
